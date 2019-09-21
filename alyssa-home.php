@@ -1,8 +1,8 @@
-<?php include "inc/nav.php"; ?>
 <?php include "inc/html-top.php"; ?>
 <body class="container">
+	<?php include "inc/nav.php"; ?>
 <header >
-	<a href="index.php">
+	<a href="alyssa-home.php">
 		<h1>Alyssa Nelson</h1>
         <img src="images/alyssa.jpg" alt="Alyssa Nelson Picture">
     </a>
@@ -15,18 +15,7 @@
 	</ul>
 </aside>
 
-<nav>
-
-	<ul>
-		<li><a href="alyssa-home.php">Home</a></li>
-		<li><a href="alyssa-highschool.php">Highschool</a></li>
-		<li><a href="alyssa-earlycollege.php">Early College</a></li>
-		<li><a href="alyssa-now.php">Now</a></li>
-
-
-	</ul>
-
-</nav>
+<?php include "inc/alyssanav.php"; ?>
 
 <main>
 	<p>I grew up in Victor, New York which is very close to the University of Rochester. Growing up, I really enjoyed soccer and playing sports. I was on the soccer and track teams all the way up until the ninth grade. My mindset changed when I performed in my first musical.</p>

@@ -1,8 +1,7 @@
-<?php include "inc/nav.php"; ?>
 <?php include "inc/html-top.php"; ?>
 <body class="container">
 <header >
-	<a href="index.php">
+	<a href="maria-home.php">
 		<h1>Maria Mancheno</h1>
         <img src="images/maria.jpg" alt="Maria Mancheno Picture">
     </a>
@@ -14,21 +13,8 @@
 	<li>Digital Media Studies</li>
 	</ul>
 </aside>
-
-<nav>
-
-	<ul>
-		<li><a href="maria-home.php">Home</a></li>
-		<li><a href="maria-highschool.php">Highschool</a></li>
-		<li><a href="maria-hobbies.php">Hobbies</a></li>
-		<li><a href="maria-unversity.php">University</a></li>
-
-
-	</ul>
-
-</nav>
-
-
+<?php include "inc/nav.php"; ?>
+<?php include "inc/marianav.php"; ?>
 
 <main>
 	<p>My name is Maria Mancheno and I’m from Quito, Ecuador. I’m 21 years old and I currently go to the University of Rochester. My major is in Digital Media Studies and I’m also doing a minor in Math. My hobbies include playing soccer, playing the guitar and reading. I work as a social media manager and web developer at the Peak Lab in the University of Rochester Medical Center. This last summer I had the opportunity to do an internship in an Ecuadorian firm where I was able to improve my programming skills. My favorite thing is to travel around the world to learn about new cultures and meet new interesting people.</p>
