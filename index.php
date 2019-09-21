@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<tite> Team Brooklyn | Assignment 2: Smash Website</tite>
+	<title> Team Brooklyn | Assignment 2: Smash Website</title>
 	<link rel="stylesheet" href="css/styles.css">
 </head>
 
