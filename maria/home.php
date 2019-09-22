@@ -14,7 +14,6 @@
 	<li>Digital Media Studies</li>
 	</ul>
 </aside>
-<?php include "../inc/nav.php"; ?>
 <?php include "../inc/marianav.php"; ?>
 
 <main>
