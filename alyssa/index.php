@@ -3,7 +3,7 @@
 <body class="container">
 	<?php include "inc/nav.php"; ?>
 <header >
-	<a href="alyssa-home.php">
+	<a href="home.php">
 		<h1>Alyssa Nelson</h1>
         <img src="images/alyssa.jpg" alt="Alyssa Nelson Picture">
     </a>
