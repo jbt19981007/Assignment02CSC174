@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <?php include "../inc/html-top.php"; ?>
-<?php include "../inc/nav.php"; ?>
 <?php include "../inc/alyssanav.php"; ?>
 <body class= "container">
 <main>
