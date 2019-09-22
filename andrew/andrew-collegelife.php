@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <?php include "../inc/html-top.php"; ?>
 <body class= "container">
-<?php include "../inc/nav.php"; ?>
 <?php include "../inc/andrewnav.php"; ?>
 <main>
 		<h1>College Life</h1>
