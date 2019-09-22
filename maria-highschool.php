@@ -10,6 +10,6 @@
 	</main>
 
 	<footer>CSC 174: Advanced Front-end Web Design</footer>
-
+<?php include "inc/scripts.php"; ?>
 </body>
 </html>
