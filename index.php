@@ -11,7 +11,20 @@
 <header>		
 <h1>Smash Website</h1>
 </header>
-<?php include "inc/nav.php"; ?>
+<nav class="menu">
+	<ul>
+
+			<li><a href="index.php">Home</a></li>
+
+			<li><a href="alyssa/home.php">Alyssa Nelson</a></li>
+
+			<li><a href="maria/home.php">Maria Mancheno</a></li>
+
+			<li><a href="andrew/home.php">Andrew Thankson</a></li>
+
+		</ul>
+</nav>
+
 <main>
 	
 	<h1>Hello World!</h1>
@@ -21,7 +34,8 @@
 </main>
 	
 
-<?php include "inc/scripts.php"; ?>
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script>
 
 </body>
 </html>
