@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<?php include "../inc/html-top.php"; ?>
+<?php include "inc/html-top.php"; ?>
 <body class="container">
 <header >
 	<a href="home.php">
 		<h1>Alyssa Nelson</h1>
-        <img src="../images/alyssa.jpg" alt="Alyssa Nelson Picture">
+        <img src="images/alyssa.jpg" alt="Alyssa Nelson Picture">
     </a>
 </header>
 <aside>
@@ -15,7 +15,7 @@
 	</ul>
 </aside>
 
-<?php include "../inc/alyssanav.php"; ?>
+<?php include "inc/alyssanav.php"; ?>
 
 <main>
 	<p>I grew up in Victor, New York which is very close to the University of Rochester. Growing up, I really enjoyed soccer and playing sports. I was on the soccer and track teams all the way up until the ninth grade. My mindset changed when I performed in my first musical.</p>
@@ -25,7 +25,7 @@
 </main>
 
 <footer >CSC 174: Advanced Front-end Web Design and Development</footer>
-<?php include "../inc/scripts.php";?>
+<?php include "inc/scripts.php";?>
   
 </body>
 
