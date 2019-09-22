@@ -14,7 +14,6 @@
 	<li>Entrepreneur</li>
 	</ul>
 </aside>
-<?php include "../inc/nav.php"; ?>
 <?php include "../inc/andrewnav.php"; ?>
 
 <main>
