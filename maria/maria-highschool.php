@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<?php include "inc/html-top.php"; ?>
+<?php include "../inc/html-top.php"; ?>
 <body class= "container">
-<?php include "inc/nav.php"; ?>
-<?php include "inc/marianav.php"; ?>
+<?php include "../inc/nav.php"; ?>
+<?php include "../inc/marianav.php"; ?>
 <main>
 		<h1>Highschool</h1>
 
