@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <?php include "inc/html-top.php"; ?>
 <body class= "container">
 	<?php include "inc/marianav.php"; ?>
