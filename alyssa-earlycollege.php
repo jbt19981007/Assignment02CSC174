@@ -1,6 +1,7 @@
 <?php include "inc/html-top.php"; ?>
-<?php include "inc/alyssanav.php"; ?>
 <body class= "container">
+<?php include "inc/alyssanav.php"; ?>
+
 <main>
 		<h1>Early College</h1>
 
