@@ -1,7 +1,7 @@
 <?php include "inc/html-top.php"; ?>
 <body class="container">
 <header >
-	<a href="home.php">
+	<a href="andrew-home.php">
 		<h1>Andrew Thankson</h1>
         <img src="images/andrew.jpg" alt="Andrew Thankson Picture">
     </a>
