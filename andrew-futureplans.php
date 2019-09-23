@@ -1,6 +1,6 @@
 <?php include "inc/html-top.php"; ?>
 <body class= "container">
-	<?php include "inc/andrewnav.php"; ?>
+<?php include "inc/andrewnav.php"; ?>
 <main>
 		<h1>Future Plans</h1>
 
