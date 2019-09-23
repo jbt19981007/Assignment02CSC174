@@ -1,6 +1,5 @@
 <?php include "inc/html-top.php"; ?>
 <body class="container">
-	
 <header >
 	<a href="alyssa-home.php">
 		<h1>Alyssa Nelson</h1>
@@ -18,9 +17,9 @@
 <?php include "inc/alyssanav.php"; ?>
 
 <main>
-	<p>I grew up in Victor, New York which is very close to the University of Rochester. Growing up, I really enjoyed soccer and playing sports. I was on the soccer and track teams all the way up until the ninth grade. My mindset changed when I performed in my first musical.</p>
+	<h1>Early College</h1>
 
-	<p>It was a very unknown, older show called “Man of La Mancha,” and I had a very small part. It was then that I noticed that I was worlds happier performing than playing in sports. I was always in the middle of the pack in sports, not the worst kid but also very far from the best. If I could have a very small part in the show and be more excited about it, I knew I had to make a change.</p>
+		<p>When I started at the University of Rochester, I knew I wanted to do theatre here as well. It was such an important role for me back in high school, so it was imperative that I found it again. At the Fall Activities Fair, I found a group called ROC Players. They did full-length musical theatre, and it was super interesting because it was completely student-run. I had never done student-run theatre before, so I was excited for the challenge. I signed up to audition, and I was cast in their fall show of “Into the Woods.” It was a very happy moment for me. </p>
 
 </main>
 
