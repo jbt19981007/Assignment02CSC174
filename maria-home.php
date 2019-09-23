@@ -2,7 +2,7 @@
 <?php include "inc/html-top.php"; ?>
 <body class="container">
 <header >
-	<a href="home.php">
+	<a href="maria-home.php">
 		<h1>Maria Mancheno</h1>
         <img src="images/maria.jpg" alt="Maria Mancheno Picture">
     </a>
